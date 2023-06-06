@@ -27,3 +27,6 @@ yarn-error.log*
 
 # cra fuck you
 src/react-app-env.d.ts
+
+# Intelija Fuckery
+/.idea
